@@ -1,1 +1,1 @@
-# Python_Flaks_Portfolio-App
+A personal portfolio application developed using Python to showcase projects, skills, and professional information. This project focuses on clean structure, reusable components, and practical Python development, serving as a foundation that can be extended with a GUI or web interface.
